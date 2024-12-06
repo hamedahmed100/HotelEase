@@ -1,6 +1,6 @@
 # HotelEase
 
-HotelEase is a simple web-based hotel reservation portal built using Angular. This project demonstrates the fundamental concepts of Angular, such as two-way data binding, services, forms, form validation, and routing. It is an ideal starting point for anyone looking to understand how to create a dynamic, data-driven web application with Angular.
+HotelEase is a simple web-based book-management-systemn portal built using Angular. This project demonstrates the fundamental concepts of Angular, such as two-way data binding, services, forms, form validation, and routing. It is an ideal starting point for anyone looking to understand how to create a dynamic, data-driven web application with Angular.
 
 ## Features
 
